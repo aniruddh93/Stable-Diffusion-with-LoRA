@@ -19,3 +19,7 @@ The repo is organized as follows:
    - cs236_clip_score.py: script to compute CLIP-I and CLIP-T score for images generated from Dreambooth.
    - cs236_inference_script.py: script to run finetuned dreambooth model. Also contains the prompts.
    - train_dreambooth.py: training script for Dreambooth. Adapted from HuggingFace.
+  
+
+More details about project:
+https://youtu.be/fBmY6qJKfTE
